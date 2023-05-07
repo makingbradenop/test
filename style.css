@@ -2,3 +2,7 @@ h1{
     color: red;
     font: optional;
 }
+body{
+background-color: rgb(90, 54, 138);
+background-repeat: transparent
+}
